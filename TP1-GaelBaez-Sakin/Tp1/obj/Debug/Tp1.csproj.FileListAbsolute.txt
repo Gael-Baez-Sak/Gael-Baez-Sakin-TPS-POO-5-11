@@ -12,3 +12,10 @@ C:\Users\gaelb\OneDrive\Desktop\POO\Gael-Baez-Sakin-TPS-POO-5-11\TP1-GaelBaez-Sa
 C:\Users\gaelb\OneDrive\Desktop\POO\Gael-Baez-Sakin-TPS-POO-5-11\TP1-GaelBaez-Sakin\Tp1\obj\Debug\Tp1.csproj.CoreCompileInputs.cache
 C:\Users\gaelb\OneDrive\Desktop\POO\Gael-Baez-Sakin-TPS-POO-5-11\TP1-GaelBaez-Sakin\Tp1\obj\Debug\Tp1.exe
 C:\Users\gaelb\OneDrive\Desktop\POO\Gael-Baez-Sakin-TPS-POO-5-11\TP1-GaelBaez-Sakin\Tp1\obj\Debug\Tp1.pdb
+C:\Users\gaelb\OneDrive\Desktop\POO\Gael-Baez-Sakin-TPS-POO-5-11\Gael-Baez-Sakin-TPS-POO-5-11\TP1-GaelBaez-Sakin\Tp1\bin\Debug\Tp1.exe.config
+C:\Users\gaelb\OneDrive\Desktop\POO\Gael-Baez-Sakin-TPS-POO-5-11\Gael-Baez-Sakin-TPS-POO-5-11\TP1-GaelBaez-Sakin\Tp1\bin\Debug\Tp1.exe
+C:\Users\gaelb\OneDrive\Desktop\POO\Gael-Baez-Sakin-TPS-POO-5-11\Gael-Baez-Sakin-TPS-POO-5-11\TP1-GaelBaez-Sakin\Tp1\bin\Debug\Tp1.pdb
+C:\Users\gaelb\OneDrive\Desktop\POO\Gael-Baez-Sakin-TPS-POO-5-11\Gael-Baez-Sakin-TPS-POO-5-11\TP1-GaelBaez-Sakin\Tp1\obj\Debug\Tp1.csproj.AssemblyReference.cache
+C:\Users\gaelb\OneDrive\Desktop\POO\Gael-Baez-Sakin-TPS-POO-5-11\Gael-Baez-Sakin-TPS-POO-5-11\TP1-GaelBaez-Sakin\Tp1\obj\Debug\Tp1.csproj.CoreCompileInputs.cache
+C:\Users\gaelb\OneDrive\Desktop\POO\Gael-Baez-Sakin-TPS-POO-5-11\Gael-Baez-Sakin-TPS-POO-5-11\TP1-GaelBaez-Sakin\Tp1\obj\Debug\Tp1.exe
+C:\Users\gaelb\OneDrive\Desktop\POO\Gael-Baez-Sakin-TPS-POO-5-11\Gael-Baez-Sakin-TPS-POO-5-11\TP1-GaelBaez-Sakin\Tp1\obj\Debug\Tp1.pdb
